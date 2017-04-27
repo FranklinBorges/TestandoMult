@@ -1,0 +1,31 @@
+﻿{
+	"version": 1493302547,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/tiledbackground.png",
+		"images/obj1-sheet0.png",
+		"images/obj1-sheet1.png",
+		"images/obj1-sheet2.png",
+		"images/messagemgame.png",
+		"images/player-sheet0.png",
+		"images/btn_play-sheet0.png",
+		"images/cam-sheet0.png",
+		"images/arma1-sheet0.png",
+		"images/bullet-sheet0.png",
+		"images/bullet-sheet1.png",
+		"images/sangue.png",
+		"images/sprite-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"c2mp-net.js",
+		"c2mp-peer.js",
+		"c2mp.js",
+		"waker.js"
+	]
+}
